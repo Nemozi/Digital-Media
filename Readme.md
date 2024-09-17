@@ -10,9 +10,9 @@ This course explored key concepts in digital image processing and transmission, 
 - **Image Operations**: Bitonal image processing, neighborhood operations, and geometric transformations.
 - **Internet Formats**: Handling images for the web and progressive image formats.
 
-This course provided a comprehensive understanding of the technical aspects of digital media processing.
-
+# A Exercise:
 Here ive Uploaded one of the labs. Be ware that in order for it to work ImageJ needs to be installed and refrenced as a libary.
+
 For the Lab our task was to create visual video overlay effects, ranging from a simple sliding effect to Chroma Keying.
 
 ![](Image1.png)

@@ -15,9 +15,9 @@ This course provided a comprehensive understanding of the technical aspects of d
 Here ive Uploaded one of the labs. Be ware that in order for it to work ImageJ needs to be installed and refrenced as a libary.
 For the Lab our task was to create visual video overlay effects, ranging from a simple sliding effect to Chroma Keying.
 
-!(Image1.png)
-!(Image2.png)
-!(Image3.png)
-!(Image4.png)
-!(Image5.png)
-!(Image6.png)
+![](Image1.png)
+![](Image2.png)
+![](Image3.png)
+![](Image4.png)
+![](Image5.png)
+![](Image6.png)
